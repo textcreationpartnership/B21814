@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Abstract of the bill for the encouragement of seamen, to enter voluntarily into his Majesty's service.</title>
+            <title>Bills. 1695</title>
+            <author>Great Britain. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21814</idno><idno type="EEBO-CITATION">99886612</idno>
+  <idno type="VID">187533</idno>
+  <idno type="EEBO-PROQUEST">2240886655</idno>
+  
+            <idno type="STC">Wing E960C</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.7[105]</idno>
+            <idno type="STC">ESTC R226274</idno>
+            <idno type="PROQUEST">ocm99886612</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886612e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21814)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187533)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:1[107])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Abstract of the bill for the encouragement of seamen, to enter voluntarily into his Majesty's service.</title>
+                  <title>Bills. 1695</title>
+                  <author>Great Britain. Parliament.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Caption title.</note>
+                  <note>With a docket title.</note>
+                  <note>With MS. note 'bill read 12 March 1695'.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Royal Navy --  Recruiting, enlistment, etc. --  Early works to 1800.</term>
+               <term type="topical_term">Seamen --  England --  Early works to 1800.</term>
+               <term type="topical_term">Voluntarism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:187533:1"/>
+            <head>Abstract of the BILL for the Encou<g ref="char:EOLhyphen"/>ragement of <hi>Seamen,</hi> to enter volun<g ref="char:EOLhyphen"/>tarily into his Majesty's Service.</head>
+            <p>ART. I. <hi>EVERY Seaman who enters voluntarily with a Commission-Officer, Justice of the Peace, or Mayor of a Town, and appears within fourteen Days on board the Ship, if the Distance be within one hundred Miles, twenty Days if more, and thirty Days in</hi> North-Britain, <hi>shall begin Wages from the Time of his Entry, have Con<g ref="char:EOLhyphen"/>duct Money, and receive two Months Wages Advance before the Ship goes to Sea.</hi>
+            </p>
+            <p>It is undoubtedly in the Power of the Admiralty to publish by Proclamation what Conduct Money and advanced Wages they think proper to give for the Encourage<g ref="char:EOLhyphen"/>ment of Men; therefore it is needless to have Recourse to Parliament.</p>
+            <p>Justices of Peace and Mayors of inland Towns cannot tell Seamen by their Faces, and therefore may very easily be imposed upon by Rogues, who by this Clause may demand a Certificate which will serve as a Pass to protect them from the Statutes a<g ref="char:EOLhyphen"/>gainst Rogues, Vagabonds, and sturdy Beggars, and this Article will fill the Coun<g ref="char:EOLhyphen"/>trey with that kind of Vermin by Certificate.</p>
+            <p n="2">II. <hi>Every voluntary able Seaman shall have three Shillings a Month, and every ordinary Seaman one Shilling more Wages than he has now.</hi>
+            </p>
+            <p>This also may be done by Proclamation, since 4 <hi>l. per</hi> Month is given for each Man aboard the Navy, and it is in the Power of the Admiralty to dispose of that Money in such manner as they shall think best for the Service; and if they would abate upon the Head of rebuilding first Rates they might out of the Savings advance the Pay of the Men without having Recourse to Parliament.</p>
+            <p>It is presumed, that if Wages are thus advanced in a Time of Peace, the Men will expect a new Advance in a Time of War, and a Want of Seamen.</p>
+            <p n="3">III. <hi>When a Ship has been eight Months in Pay, two Months Wages shall be paid to the Vo<g ref="char:EOLhyphen"/>luntiers; after fourteen Months, two Months more; and so every six Months till the final Pay of the Ship.</hi>
+            </p>
+            <p>The Commissioners of the Navy are by this Clause requir'd to cause immediate Payment to be made of two Months Wages in six, but as there is no additional Mo<g ref="char:EOLhyphen"/>ney given them by this Act for to enable them to make those prompt Payments, and as there is no Penalty upon them in case they do not comply with this Direction, it is to be fear'd that this Clause will have as little Effect as a Promise of the same Na<g ref="char:EOLhyphen"/>ture in the Register Act. If the Money given by Parliament is sufficient for to make this prompt Payment, the Advance might be made by Order of the Admiralty with<g ref="char:EOLhyphen"/>out having Recourse to Parliament, and if the 4 <hi>l. per</hi> Man be not sufficient, this Bill does not augment it, so consequently does not give any Remedy.</p>
+            <p n="4">IV. <hi>When a voluntary Seaman dies, his Wages shall be forthwith paid to his Executors, without staying for the Pay of the Ship.</hi>
+            </p>
+            <p>This Disposition of the Seamens Pay is entirely in the Power of the Admiralty, and they need not have Recourse to Parliament on this Head.</p>
+            <p n="5">V. <hi>Voluntary Seamen shall never be turned over into other Ships, but in Cases of extream Necessity, and then they shall not serve in worse Qualities than they had in the first Ship, and (besides being paid all their Wages which they have a Right to by a former Law) they shall have two Months Wages advanced before the Ship goes to Sea.</hi>
+            </p>
+            <p>If this Clause passes, a Power will be given to the Admiralty which indeed they have not, and which will repeal the most valuable Part of the <hi>Magna Charta,</hi> the <hi>Pe<g ref="char:EOLhyphen"/>tition of Right,</hi> and the <hi>Habeas Corpus</hi> Act. It says that <hi>no voluntary Seamen shall be turn<g ref="char:EOLhyphen"/>ed over into other Ships;</hi> this is granting nothing, for the turning of them over is alrea<g ref="char:EOLhyphen"/>dy against Law; it is banishing them without Tryal by their Peers, which is against the <hi>Magna Charta,</hi> and the Words which follow <hi>(but in Cases of extream Necessity)</hi> will,
+<pb n="2" facs="tcp:187533:2"/> if passed, authorize by Act of Parliament the turning over in Cases of Necessity, and will make the Admiralty Judges of that Necessity; if this Clause passes, it will give a Power to the Admiralty over the Liberties of the Seamen unknown to the Laws of this Realm, and justify a Practice which is the Terror of the Seamen and the greatest Reason of their Unwillingness to list.</p>
+            <p n="6">VI. <hi>All the Preferments and petty Offices in the Ship, as Mates, Midshipmen, and so down<g ref="char:EOLhyphen"/>wards, shall be conferred on voluntary Seamen only, and such as actually do the Duty of their Places.</hi>
+            </p>
+            <p>This Clause insinuates as if pressing were to be continued, since it makes a Diffe<g ref="char:EOLhyphen"/>rence between Voluntiers and some other kind of Seamen, by whom if pressed Men are meant, it is presumed that this Distinction will make Bullies of the Voluntiers, and Slaves of the pressed Men; besides which, the Government will be deprived by it of the Service of many excellent Mariners, since it is known that Mates of Merchant Men, who have had liberal Education, and who can get comfortable Livings will not go Voluntiers, but are often pressed on board the Men of War, and are as fit to make petty Officers of as any Men whatsoever.</p>
+            <p n="7">VII. <hi>When the Ship is paid off, any voluntary Seaman may have a Protection for one Month from the Press, if there be one on Foot, and he desires it.</hi>
+            </p>
+            <p>In this Clause the Meaning of the Bill begins to be seen; it sets forth, that a Li<g ref="char:EOLhyphen"/>cence shall be given, which shall be to such Person a Security and Protection against being impressed for the Space of one Month, which is as much as to say they might be pressed if they had not such Licence: This is at once allowing all the illegal Acts which have been commi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted under Press Warrants, and continuing the Power of Pressing in the Breast of the Admiralty without any Limitation whatsoever. It seems very extraordinary to have Recourse to Parliament to order Men to be protected for one Month only, against a Violence from which by their Birthright they ought to be eternally exempted.</p>
+            <p n="8">VIII. <hi>If a Ship is fitted out at one Port, and laid up in another distant Port, the voluntary Seamen who live near the first Port, shall be allowed Conduct Money home.</hi>
+            </p>
+            <p>This is a very good Clause, and in the Power of the Admiralty without Act of Parliament.</p>
+            <p n="9">IX. <hi>Seamen who desert, shall forfeit no Wages but what are due in the Ship they deserted from.</hi>
+            </p>
+            <p>This Clause shews, that the Custom of turning Men over is intended to be conti<g ref="char:EOLhyphen"/>nued, and that it is not intended to pay off the Men as soon as the Ships are laid up; for if all the Wages due unto them on board the last Ship on which they served be discharg'd, there can be no Arrears for them to forfeit.</p>
+            <p>After this Clause follows a Proviso not inserted in the Articles: <hi>Provided neverthe<g ref="char:EOLhyphen"/>less, that nothing in this Act contained, shall extend to take away or alter the Punishment ap<g ref="char:EOLhyphen"/>pointed by an Act made in the thirteenth Year of King</hi> Charles <hi>the Second, for such Captains, Officers or Mariners as shall desert the Service of his Majesty, his Heirs or Successors, in his Ships, or entice others so to do:</hi> And the Clause referr'd to, 13 <hi>Car.</hi> II. <hi>cap.</hi> 9. <hi>sect.</hi> 17. <hi>All Sea-Captains, Officers or Mariners, that shall desert the Services or their Employment in the Ships, or shall run away, or entice any others so to do, shall be punished with Death.</hi>
+            </p>
+            <p n="10">X. <hi>All Bills of Sale of Seamens Wages shall be void in Law, and the Treasurer shall pay all Wages to the Parties themselves, or to the lawful Attorneys, or their Executors.</hi>
+            </p>
+            <p>Bills of Sale are suppressed, but Letters of Attorney are constituted in their Stead, and the Treasurer of the Navy made Judge whether the Sailor shall be paid his Wages or not. Doubtless the Sailor ought, like other Subjects, to have the Liberty of Receiving his Wages, and let the Creditor be left to his Remedy at Law.</p>
+            <p n="11">XI. <hi>All Letters of Attorney shall be witnessed either by the Captain of the Ship, a Clerk of the Checque at any of the Dock Yards, or a Mayor of a Town, or a Notary Publick in</hi> Lon<g ref="char:EOLhyphen"/>don <hi>and</hi> Westminster.</p>
+            <p>This enableth the Sailor to give many Letters Attorney, and consequently lessens the Security of any one of them; for he may give a Letter of Attorney sign'd by the Captain of the Ship, another by the Mayor of a Town, and as many more diffe<g ref="char:EOLhyphen"/>rent Letters of Attorney for the same Pay as there are Notary Publicks in <hi>London</hi> and <hi>Westminster;</hi> and if many different Letters of Attorney, sign'd by the same Person and for the same Wages, come to the Pay-Table together, there is no Rule laid down
+<pb n="3" facs="tcp:187533:2"/> for the Treasurer to proceed upon, and 'tis left in his Breast which of the Creditors shall receive and which lose their Money.</p>
+            <p>Here comes in another Proviso not mentioned in the Abstract, by which Masters are to receive the Wages of their Servants. This gives a Power of making Slaves, because the Age of the Servant is not limited; therefore a Sailor of full Age being ar<g ref="char:EOLhyphen"/>rested or made drunk by his Creditor, may be drawn in to sign an Indenture by which he may bind himself for a Number of Years, and that Creditor may sell him to a Man of War, and receive all his Pay at the Pay-Table for as many Years as his Indenture lasts.</p>
+            <p n="12">XII. <hi>Seamen may dispose of their Tickets by Sale, which shall be paid to the lawful Purcha<g ref="char:EOLhyphen"/>ser, even though the Party deserts afterwards.</hi>
+            </p>
+            <p>This seems to be an Encouragement to Desertion.</p>
+            <p n="13">XIII. <hi>Seamen applying for their Wages after the Ships Books are made up and closed, shall have Tickets made out for their Wages, payable in a Month.</hi>
+            </p>
+            <p>Tickets are continued but ordered to be paid within a Month, but no Provision is made for the Paying of them.</p>
+            <p n="14">XIV. <hi>If a Land Officer enlists a Seaman, upon Proof made that he is such, he shall be discharged.</hi>
+            </p>
+            <p>If this Clause passes, all the Captains in the Land Service may be undone; for af<g ref="char:EOLhyphen"/>ter they have been at great Expence in listing a Man, and bringing him to the Regi<g ref="char:EOLhyphen"/>ment, he may, even the Day before the Muster, be demanded as having served on Board a Ship.</p>
+            <p n="15">XV. <hi>Governours, Ministers, Consuls, and Merchants abroad, shall subsist poor straggling Seamen, at the Rate of Six-pence a Day, and send them Home by the first Opportunity; and Masters of Merchant-Ships shall bring them Home, and be allow'd Six-pence a Day for their Passage and Provisions.</hi>
+            </p>
+            <p n="16">XVI. <hi>Foreign Seamen serving three Years voluntarily in his Majesty's Ships, shall have the same Privileges as natural born</hi> Englishmen.</p>
+            <p>It is presumed that this Clause cannot be reconciled to the following Part of the Act of Navigation, 12 <hi>Car.</hi> II. <hi>Cap.</hi> 18. <hi>Sect.</hi> 1. <hi>No Goods or Commodities whatsoever shall be imported into, or exported out of any Lands, Islands, Plantations, or Territories to his Majesty belonging or in his Possession, or which may hereafter belong unto, or be in the Possession of his Majesty, his Heirs and Successors, in</hi> Asia, Africa, <hi>or</hi> America, <hi>in any other Ship or Ships, Vessel or Vessels whatsoever, but in such Ships or Vessels as do truly and without Fraud belong only to the People of</hi> England <hi>or</hi> Ireland, <hi>Dominion of</hi> Wales, <hi>or Town of</hi> Berwick <hi>upon</hi> Tweed; <hi>or are of the Built of, and belonging to any of the said Lands, Islands, Planta<g ref="char:EOLhyphen"/>tions, or Territories, as the Proprietors and right Owners thereof, and whereof the Master and three fourths of the Mariners at least are</hi> English.</p>
+            <p>12 <hi>Car.</hi> II. <hi>Cap.</hi> 4. <hi>Sect.</hi> 1. <hi>We the Commons,</hi> &amp;c. <hi>Give and grant unto you our Supream Leige Lord and Sovereign, one Subsidy called Tunnage, that is to say, of every Tun of Wine of the Growth of</hi> France, <hi>or of any the Dominions of the</hi> French <hi>King, or Crown of</hi> France, <hi>that shall come into the Port of</hi> London, <hi>and the Members thereof, by Way of Merchandize, by your natural born Subjects the Sum of</hi> 4 l. 10 s. <hi>of current</hi> English <hi>Money; and so after that Rate, and by Strangers and Aliens six Pounds of like Money.</hi>
+            </p>
+            <p>It is presumed that if this Clause passes, the <hi>Dutch</hi> or any other Foreigners may, by sending their Mariners on Board an <hi>English</hi> Man of War for three Years, make them <hi>Englishmen.</hi> By Manning their Ships with such <hi>Englishmen,</hi> and entering them in some of their Names, they may elude the King of his Foreign Duties, and destroy the Trade of the Merchants, besides which, it is liable to infinite Frauds, since there is no Register nor Certificate to be produced of their having served.</p>
+            <p n="17">XVII. <hi>Seamen who serve voluntarily Twenty Years, and are not under Fifty Five Years of Age, shall be protected for ever from the Press, shall be free from all Parish Offices, and shall be admitted into</hi> Greenwich <hi>Hospital preferable to any others.</hi>
+            </p>
+            <p>This Clause, under the Pretence of giving Ease to the Sailors, admits Pressing to be lawful, and sanctifies all the Oppression that has or may be committed by that ex<g ref="char:EOLhyphen"/>traordinary Manner of Raising Seamen; if this Clause passes as it now stands, it may be pleaded as the Sense of the Legislature against any Person who shall bring an Acti<g ref="char:EOLhyphen"/>on of Damage for having been beaten, plundred, or abused by a Press-Gang: And how apt they are already to beat, plunder, and abuse, every Merchant in the Kingdom is deeply sensible.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:187533:3"/>
+            <p>Abstract of the BILL for the Encouragement of SEAMEN, to enter volun<g ref="char:EOLhyphen"/>tarily into his Majesty's Service.</p>
+            <pb facs="tcp:187533:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
